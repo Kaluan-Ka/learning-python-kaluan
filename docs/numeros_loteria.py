@@ -19,7 +19,7 @@ print("\n" + "="*50)
 print("NÚMEROS ESCOLHIDOS NAS TENTATIVAS ÍMPARES:")
 print("="*50)
 
-# Contar frequência de cada número
+# Contar a frequência de cada número
 from collections import Counter
 frequencia = Counter(numeros_impares)
 
