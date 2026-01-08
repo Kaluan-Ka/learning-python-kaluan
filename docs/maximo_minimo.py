@@ -22,4 +22,4 @@ while True:
     
 print("Maximum is", maior)
 print ("Minimum is", menor)
------------------------------------------------------------------------
+
