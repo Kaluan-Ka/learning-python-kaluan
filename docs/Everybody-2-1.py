@@ -26,3 +26,5 @@ for line in fh:
     total = total + numbers
     media = total / contador   
 print ("Average spam confidence:" , media)
+
+End 
